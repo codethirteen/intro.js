@@ -2,7 +2,6 @@
 
 > Better introductions for websites and features with a step-by-step guide for your projects.
 
-
 ## How to use
 Intro.js can be added to your site in three simple steps:
 
@@ -20,13 +19,11 @@ For example:
 ```javascript
 introJs().start();
 ````
- 
-Optionally, pass one parameter to `introJs` function to limit the presentation section.
+ Optionally, pass one parameter to `introJs` function to limit the presentation section.
 
 **For example** `introJs(".introduction-farm").start();` runs the introduction only for elements with `class='introduction-farm'`.
 
 <p align="center"><img src="http://usablica.github.com/intro.js/img/introjs-demo.jpg"></p>  
-
 
 ## Using with:
 
@@ -76,3 +73,7 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
 IN THE SOFTWARE.
+
+
+
+### TEST EDIT TO THE END OF THE FILE
